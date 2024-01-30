@@ -3,7 +3,7 @@ let list=document.getElementById("list");
 
 function clickMe(){
 if(input.value==""){
-    alert(" plz enter somthing");
+    alert(" plz enter something");
 }
 else{
     let li=document.createElement("li");
